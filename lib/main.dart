@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return MaterialApp(
-      title: 'GO',
+      title: 'CoastHub',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
           hintColor: Color(0xFFC0F0E8),
